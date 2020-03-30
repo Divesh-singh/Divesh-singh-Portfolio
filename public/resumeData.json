@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name":"Divesh Singh",
+    "occupation":"Web and Native App Developer",
+    "description":"I do freelance project development like website, mobile app and other contract based development work.",
+    "image":"profilepic.jpg",
+    "bio":"I am a Full stack developer with 2 years+ experince. I build Website, mobile application (both android and ios) for small buisness. I am also open to contract based development projects.",
+    "contactmessage":"Send message for a project or any other query and I will get back to you at the email you will provide as fast as I can.",
+    "email": "diveshsingh.cse@gmail.com",
+    "phone": "9205029076",
+    "address":{
+      "street":"H block",
+      "city":"Ghaziabad",
+      "state":"UttarPradesh",
+      "zip": "201013"
+    },
+    "website": "#",
+    "resumedownload":"https://drive.google.com/open?id=1ZGJYbBB_JJv2vsbmdildJaV0vwYh0tOk",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/divesh.singh.12139",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/divesh_js",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/divesh-kumar-singh-222827167/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://instagram.com/divesh.js",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/Divesh-singh",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/WMztfHgWWYkO",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"These are some tools under my belt.",
+    "education":[
+      {
+        "school":"A.K.T.U",
+        "degree":"Bachelor of technology",
+        "graduated":"Ends June 2022",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Freelance",
+        "title":"Self Employed",
+        "years":"June 2019 - Present",
+        "description":"I build Website, mobile application (both android and ios) for small buisness. I am also open to contract based development projects."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"Frontend",
+        "level":"90%"
+      },
+      {
+        "name":"Backend",
+        "level":"80%"
+      },
+      {
+        "name":"S.Q.L.",
+        "level":"50%"
+      },
+      {
+        "name":"Cloud",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Natours",
+        "category":"Static sample project created under Jonas Schmedtmann",
+        "image":"natours.jpg",
+        "url":"https://github.com/Divesh-singh/Natours"
+      },
+      {
+        "title":"Fintech",
+        "category":"This was a financil management app made in hackathon.",
+        "image":"fintech.jpg",
+        "url":"https://github.com/Divesh-singh/Fintech"
+      },
+      {
+        "title":"PoliceAppSIH2020",
+        "category":"This is a react-native application made for SIH2020",
+        "image":"policeapp.jpg",
+        "url":"https://github.com/Divesh-singh/PoliceAppSIH2020"
+      },
+      {
+        "title":"DOM Pig game",
+        "category":"This is a vanila Javascript DOM manupulation webapp",
+        "image":"pig-game.jpg",
+        "url":"https://github.com/Divesh-singh/DOM-game"
+      },
+      {
+        "title":"ShareMyBooks",
+        "category":"Flask app for exchanging book between readers",
+        "image":"sharemybooks.jpg",
+        "url":"https://github.com/Divesh-singh/ShareMyBooks"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
